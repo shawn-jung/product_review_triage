@@ -8,7 +8,7 @@ Some customers claimed that the actual color of products are different from what
 
 #### Data Preparation 
 * [Annotation data prep with sampling](/annotation_prep.ipynb)  
-* Color mismatch case tagging with Doccano 
+* [Color mismatch case tagging with Doccano](https://github.com/shawn-jung/product_review_triage/wiki/doccano-for-quick-text-tagging)
 
 #### ML Training 
 * Logistic regression with bag-of-words 
